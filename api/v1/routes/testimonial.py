@@ -113,7 +113,7 @@ def get_user_testimonials(
                 "message": "You can only view your own testimonials"
             }
 
-        # Simply return the paginated response
+        # return the paginated response
         return paginated_response(
             db=db,
             model=Testimonial,

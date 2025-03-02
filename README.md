@@ -246,11 +246,3 @@ Then retry:
 alembic revision --autogenerate -m 'your migration message'
 ```
 
----
-
-## **Contribution Guidelines**  
-
-- **Test your endpoints and models** before pushing changes.  
-- **Push Alembic migrations** if database models are modified.  
-- Ensure your code **follows project standards** and **passes tests** before submitting a pull request.  
-
