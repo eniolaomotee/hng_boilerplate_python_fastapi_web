@@ -114,5 +114,3 @@ then, run this again.
 please make sure to test your endpoint or model before pushing.
 push your alembic migrations.
 
-
-
